@@ -1,0 +1,1 @@
+# opencode-claude-auth
